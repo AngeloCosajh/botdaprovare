@@ -1,6 +1,6 @@
 <?php
-$token = "IL TUO TOKEN"; //Il token da @BotFather
-$sito = "https://tuodominio.altervista.org/TuoBot/index.php"; //Il percorso dell'index
+$token = "841046224:AAFCGt3nsN7Huguq07jvLP_aCe7588yrHlE"; //Il token da @BotFather
+$sito = "https://botdaprovare.herokuapp.com/index.php"; //Il percorso dell'index
 
 //////////////////////////////////// NON TOCCARE QUI ////////////////////////////////////////
 $webhook = 'https://api.telegram.org/bot'.$token.'/setwebhook?url='.$sito.'?api=bot'.$token;
